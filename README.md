@@ -7,9 +7,9 @@
 
 
 <p align="center">
-  <img alt="Tempo1" src="https://ik.imagekit.io/aowlcgixdo/tempo_1_E5OAlA8G8R.png?updatedAt=1627140417588" width="300">
+  <img alt="Tempo1" src="https://ik.imagekit.io/aowlcgixdo/canva-photo-editor__2__iPi6UiNE2.png?updatedAt=1627140965687" width="300">
   
-  <img alt="Tempo2" src="https://ik.imagekit.io/aowlcgixdo/tempo_2_eNlzBDs58.png?updatedAt=1627140417792" width="300">
+  <img alt="Tempo2" src="https://ik.imagekit.io/aowlcgixdo/canva-photo-editor__3__SgSCp370Bw.png?updatedAt=1627140965736" width="300">
 </p>
 
 ## 🚀 Tecnologias
